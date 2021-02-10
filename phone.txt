@@ -1,1 +1,3 @@
 phone
+add battery
+add gorrila glass
